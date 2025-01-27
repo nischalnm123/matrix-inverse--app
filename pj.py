@@ -8,22 +8,22 @@ from io import BytesIO
 # Firebase Admin SDK JSON Key
 firebase_key = {
   "type": "service_account",
-  "project_id": "intern-7c9f4",
-  "private_key_id": "4088b27796536e24091e75f04675e743bed75eed",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbpYlsIGk0c2Vu\nVYXkL+efhL3Qa10sk2dWvaOVCu2KDQ3bLWSRQRmYJSuPLdM9G/Z5dMIla2IWsZry\nCOA60UvTNryO2qr2Tvo4OdmG1Iaf7UY56IUtWD6DIcqEYQLy/JX5ExSwPp3DO0Ta\n7sXfdpCuQohYdMuQyDrtyCZNe4OIQiB2do7uFGJ3pR6EoJTEdGhvvwE+cfa636pK\nJSmdi7EER/UJjBJ8lo19+he5mBjLffBj1qzuHwwV7K/oKFF8CLspMN7e+XcpcgZD\njP9crHGRNFUzwLcwG9a9sbjzZ+W6i9uKnmRwvaeZBByo4KeZQbsQHrJ3HQCUujYa\n9JY2zjsJAgMBAAECggEAAjJ83/sN0SY8jSla6a+SxaniOMIolLut+UerEAG7/GIW\nddIhuc/hSchjNt25k4LEtiPjpmiU1WeDcvLqIMUZ8heIjjxgWSLLSHuUlQvaAgGf\np1X0z1Y6vQTUmY15tQQYz+Uo5Rtf2cTel3fzG3uj1jntN9EfmzcgZyvsp9UHCdIz\ngv8LUeRm0vcbgnUnpQgDqbTLt/LreZBCbLaBj9gtZmFOch5vFTOf6fLwiHZLfCft\naZj/uWDBnz/zfQBvMvhbhMPVcB9emOmZ4AhXfrPIpbMYkwwaFhK+xlx8XvD9hWL8\ntAfrpwEAGYcpcVtI/xHryS1mhNqeuAF+cHjS01okqQKBgQDTUImPbTO97dXzZF3K\ncUgFc8OG1qVnnPX+KVidGh3nGsgsHoW0yhy+S6YhNJyQKkhYzrk2lXSsF1ZrarC3\n3AgjMCT7nLHghss7/BXzA6K06UUSNzTTpn0ypOmM3Jn6TEM7OeOAULITn3CKrKks\nw+kcYH1TL1H2SNRbY6/uBo+h7QKBgQC8j22Ifa4hRxiAs+J30JHiZJbHE+soAIRa\n1H5BzDqTkcWnx6+QBTMrx+HrJ9N40y3fGrJhQipaFvaKsclD6xzSI78Ln8SBwhhY\nSPkXxdhXG/IjK/PwlioNE94PYLk5IJKqpAfbbgjIQ8D1UWEeaEEX8t1c/xKv6rcD\niiNqevbKDQKBgEioWoQsYiweCQClM/KVvNPTGBnW2AymVZbMlKGAB2QdO1KgNA0T\nqYps7HRiaKrRPwr6GYkBHprFc3t/tb+iMlIXDcBOAoNXFa5MYSerylg2FP/MZ6eW\niVnOhldeyrrbWgqVPvoxxOkmW0XzVEAGJLMTIkRl8uKh7BJ4VlebfeuJAoGBAKXd\ngNtsuqzZLkugcNk2Ze2A0EUEV3nTopmHjBxy+x/uPbEN7XhBqrabWDaTzOje0t4L\nTNhS7JBc3Lg6FbIh8jNDcH1YJ/KAewvF/R+VUG2nzoJz2lxKq2jfjhl22tfOuFVU\nfvjdvOn095qT4FtwF7pqT6DLW3PVgvGhJPA4hDhNAoGAEyd7dDr00MHN9ueKsWFa\nZOCMLLrcZE55TeETXSvP4EBtBalvoTMR65ocmY0vStDNpMLp/n6sTjcRAmaXVEMg\nDKdcENMp10n3NrMDQhDSstGNtdyTa0QNPlJ5g4AATrnyblJ/bmvpYmKHnZLevwBe\nMu4OfE8wEMXy9+DTYjP+oYo=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fbsvc@intern-7c9f4.iam.gserviceaccount.com",
-  "client_id": "107171942891220637053",
+  "project_id": "punk-5c99d",
+  "private_key_id": "17871b0098e1f916e5aed10ac0b538ec2f9a2ff6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOWJcwpAHWv4xI\nyI1hgAvkAzhXy4vYL8kwM0Jyd1cIJinVkfhtXzQJrGOq1boGMVc9LWrIYN/Jy+2G\nnAwowCcBhX+M67oGPburK8SuZclnWQjH8oe0H4/cyUzjSuwl4nHR/W64e8CtLq/Z\ncDjV/4Ih1X3j2d/CGv0WJuUfXFAIzPVIdyv7xQA39mjWpxPHEKD8Kums7McPSRtt\nR7VaunPYTbfDPkaXlhegxqcMtdpN+TxP1A3Mlm7cW9crYRdqwu5BQMM6CwSgpziW\n4xsiAyTcx9gTOZBYLNT18Xe2rroTfOGu6npUclNsQ1QiFGavHoMr/6Y+A0u/iokw\nMGaWepoBAgMBAAECggEACekSGN9VqcZhItlEBhHn8EtxzDCt3qQb5/VcTIJcExt/\nIJ9uRLWA+rJ1hn3VnYjG4XyyD13svaTOW4vY3yesb+ulHsPvFy/lmLDlVUF1AQJT\nFERbHWzzJEXkTBnb+e1UbWMcS17BOCghAMLdrfSDv+OAtH3xO+G/NE5JrJ4Kx4NX\ncvbho6ufnJZ/hYW/NTTuiYm6N6ff87txAuBWH2oY+5YHpr2M+sGFV1/FQEgg8/7c\nGeDaCr5PwcvvkpxoaPhfJ0NbVEzSuIRMTUM1EX/y9GpVbpZjx8cgr0FOcGHLlD+P\nVln95C6WQOxdTzx0336NN3oBpPOpgE6a0X8D/UfLYQKBgQDqm+1efWsyH6QsQgg3\nV2BNVJbJI76KSwgqlaPvEQu3lEKCilVWsNAsYWo303+wi3zBepSnS+Ge8FEs9gcg\nm82LYn655+R3GWqe35vZ2PanmHtFPZA6Xbdey11M06XIzPCYtN475FYboa9LLlCH\n8JBaA7QvELOP7jbImK/UZzp+UQKBgQDhKPfqqrnf+H3SPQZ/uPeK+PBoMrfUrKK4\nwk1+ENBsz4aUAIAfwATPfdrfuHbFlII55BrHAS5Hvpo+zopNuH+WmyvCaF9CYZGW\nABGpT7duSEqX52Vfw99t0a8+xGULA2sLTe86xikNnDCHFrIPUsmYwGqv1nSSAXym\n1QW96BAEsQKBgCTX3+sa3x68AVhB9nBadHEwe42S43VsWxf08A23K5Pk4J0HhGdc\n1RRjJ/8kY8Uh4rGvwnCTZhdDvjvFV1Ezpo/hI+2mESbzAt94Vk1b2UBwncs948yG\nsylb3ocWJc7nAFG69buKHEuylIjF+Tef+8tnEYDiqpBL5KaT8+jzXShBAoGATHkw\nsvhnh0WL3oMxmOHG2eGxLYLEYyx7XAtKbJ3jXIGjsNL2sVHzkFGrrD6nwHWvQWBT\nI/InuOBo3RojaUBXvVxYoX/3ksE2xF6joQDdSUyuYSeLi9ooIdGNFuF3fCUeD0na\nDflN6jx5UviHY6L3q7T2x2AsWYa9wqApghW2kxECgYBtGdWNC66VtxmItw/AqGhj\nVs79VbO+PSG1Cb6lIlmr/5kaZAnJYyJigADlO9Q0Mr59gF5V7iBTX0jTfuWuDnn9\nXCIEYidjLxxKDwZJHKDXeJGaXZJz2Ngwx67xIWK5G+1g8yUQuWtfvk794P1YSFWd\ndIDolqA+cO/Dqo/Trnzz6Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@punk-5c99d.iam.gserviceaccount.com",
+  "client_id": "116628164597619278711",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40intern-7c9f4.iam.gserviceaccount.com",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40punk-5c99d.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
 
+
 # Initialize Firebase Admin SDK
-# Initialize Firebase Admin SDK (only if not already initialized)
 if not firebase_admin._apps:
-    cred = credentials.Certificate("./key.json")
+    cred = credentials.Certificate(firebase_key)
     firebase_admin.initialize_app(cred)
 
 def register_user(email, password, display_name):
