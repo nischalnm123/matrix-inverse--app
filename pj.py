@@ -165,5 +165,5 @@ def main():
                     mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
                 )
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
